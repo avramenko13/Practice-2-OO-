@@ -62,10 +62,10 @@ ___
 
 :file_folder: **Посилання на завдання** :point_down:
   ___
-[Код №2.1]()
+[Код №2.1](https://github.com/avramenko13/Practice-2-OO-/blob/main/practice2avramenko/src/main/java/ex2/mainex1.java)
 ___
-[Код №2.2]()
+[Код №2.2](https://github.com/avramenko13/Practice-2-OO-/blob/main/practice2avramenko/src/main/java/ex2/mainex2.java)
 ___
-[Код №2.3]()
+[Код №2.3](https://github.com/avramenko13/Practice-2-OO-/blob/main/practice2avramenko/src/main/java/ex2/mainex3w.java)
 ___
-[Код №2.4 (Індивідуальне завдання]()
+[Код №2.4 (Індивідуальне завдання](https://github.com/avramenko13/Practice-2-OO-/blob/main/practice2avramenko/src/main/java/ex2/individual.java)
