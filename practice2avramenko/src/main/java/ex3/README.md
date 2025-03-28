@@ -22,4 +22,4 @@ ___
 
 :file_folder: **Посилання на завдання** :point_down:
   ___
-[Код]()
+[Код](https://github.com/avramenko13/Practice-2-OO-/blob/main/practice2avramenko/src/main/java/ex3/main2ex1.java)
