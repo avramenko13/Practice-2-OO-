@@ -58,4 +58,4 @@ ___
 ___
 :file_folder: **Посилання на завдання** :point_down:
   ___
-[Код]()
+[Код](https://github.com/avramenko13/Practice-2-OO-/blob/main/practice2avramenko/src/main/java/ex5/mainex5.java)
