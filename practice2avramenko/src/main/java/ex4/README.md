@@ -26,7 +26,7 @@ ___
 
  ### :pencil2: **Screen3**
 
-![task](https://cdn.discordapp.com/attachments/920360168452149293/1355186480854732962/image.png?ex=67e80343&is=67e6b1c3&hm=dadac82467119fa1cc1756d585c5b6a036790c72b03b4ac0c4ab3f9180b018b4&)
+![task](https://cdn.discordapp.com/attachments/920360168452149293/1355186480854732962/image.png?ex=67eca083&is=67eb4f03&hm=dc3e7921d4e60df277b8483484c9b5a8d95b15c5a9fc7b60bcddb998df10e62b&)
 ___
 :file_folder: **Посилання на завдання** :point_down:
   ___
