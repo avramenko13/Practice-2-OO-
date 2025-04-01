@@ -30,7 +30,7 @@ ___
 задачі.
 ___
 
-![task](https://cdn.discordapp.com/attachments/920360168452149293/1354823490531758110/image.png?ex=67e6b133&is=67e55fb3&hm=975676fdd6d13b4ba78c22a6187374b213bb134906f0fb956d6e82d1fd786402&)
+![task](https://cdn.discordapp.com/attachments/920360191524995152/1356613952292782191/ex2.2.1.png?ex=67ed34b2&is=67ebe332&hm=cb18a01c9ddce3b9d687ef93ca6046428b6bff39d69adbc28662b38f4291fa80&)
 ___
 ### :pencil2: Результат виконання завдання №2.2
 
@@ -39,7 +39,7 @@ ___
 використання transient полів.
 
 
-![task](https://cdn.discordapp.com/attachments/920360168452149293/1354791689318957056/image.png?ex=67e69395&is=67e54215&hm=1cece6d6b4f4f0a19cbbb919d1097fd829ef2db58899c702244e0b83f1167570&)
+![task](https://cdn.discordapp.com/attachments/920360191524995152/1356614132115181609/ex2.2.2.png?ex=67ed34dd&is=67ebe35d&hm=560fdecd8bbc691ce10c656cdc10a5e151eea39cb32704d73b67d7fff0c1a68c&)
 ___
 ### :pencil2: Результат виконання завдання №2.3
 
@@ -48,7 +48,7 @@ ___
 Використовувати докладні коментарі для автоматичної генерації
 документації засобами javadoc.
 
-![task](https://cdn.discordapp.com/attachments/920360168452149293/1354824228397908163/image.png?ex=67e6b1e3&is=67e56063&hm=2c68afe82721f4d06f86d113558449182f18905b88cf9330f682e6f9eb8b8ae4&)
+![task](https://cdn.discordapp.com/attachments/920360191524995152/1356614210473165070/ex2.2.3.png?ex=67ed34f0&is=67ebe370&hm=840508892e120720db2a9fec6703d63c2c0fea3b7ebb1b429170f7422d47c4eb&)
 ___
 ### :pencil2: Результат виконання завдання №2.4 (Індивідуальне завдання)
 
@@ -57,7 +57,7 @@ ___
 аргументів.
 
 
-![task](https://cdn.discordapp.com/attachments/920360168452149293/1354824688685158481/image.png?ex=67e6b251&is=67e560d1&hm=b98d8e66dc4f2ce63650a9f97573306b279656332644fd4c0a0196e85d891752&)
+![task](https://cdn.discordapp.com/attachments/920360191524995152/1356614284976849069/ex2.2.4.png?ex=67ed3502&is=67ebe382&hm=415b79ab9b0cc68f8b2aff3c4d3053526f998b45d62790492edc69e2f95c5deb&)
 ___
 
 :file_folder: **Посилання на завдання** :point_down:
