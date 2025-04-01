@@ -6,9 +6,8 @@ ___
 
 
 ### :pencil2: **Результат виконання завдання:**
-  ___
-
-![task](https://cdn.discordapp.com/attachments/920360168452149293/1354084793331093544/image.png?ex=67e4013c&is=67e2afbc&hm=4a51de3685f886a14e7c961709707bcfd8fcef7e214d7263583225a99fd3cc96&)
+  
+![](https://cdn.discordapp.com/attachments/920360191524995152/1356612731117240330/ex1.png?ex=67ed338f&is=67ebe20f&hm=35e436dc28df5f4dec24d8bb0e311ea5f4509c60872cfa0af84f359486a2db77&)
 
   ___
 
