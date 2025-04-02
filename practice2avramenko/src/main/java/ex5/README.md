@@ -19,7 +19,7 @@ ___
 ![task](https://cdn.discordapp.com/attachments/1356636390678597722/1356636488955334829/ex5.1.png?ex=67ed49b0&is=67ebf830&hm=63aab4d8e7fc4658aa4bd26ab41c96758e4475553768ce5237def7ccdbef41db&)
 
 ### :pencil2: **Screen2**
-![task](https://cdn.discordapp.com/attachments/1356636390678597722/1356636954229473343/ex5.2.png?ex=67ed4a1e&is=67ebf89e&hm=3f17386149e62df9eadbafe0fac806a91610a70a9d927e6f929f9227e6bed0a1&)
+![task](https://cdn.discordapp.com/attachments/1356778446465798164/1357131907854237706/ex5.2.png?ex=67ef1715&is=67edc595&hm=bb21a90cea4333f80940f262d89d1365f5e25d97a924c75a82a99b330d72f1eb&)
 
 ### :pencil2: **Screen3**
 ![task](https://cdn.discordapp.com/attachments/1356636390678597722/1356637117173858444/ex5.3.png?ex=67ed4a45&is=67ebf8c5&hm=9e07396cc8a77fa31121b7be06baefae2cfcf704eee69e136db6809fa6b9b5a3&)
@@ -31,7 +31,7 @@ ___
 ![task](https://cdn.discordapp.com/attachments/1356636390678597722/1356637192146915501/ex5.5.png?ex=67ed4a57&is=67ebf8d7&hm=2130e2de7c5540d6a34db1c068dd3a4fe4f632fe2d65b43f4f8ddd46cd6d403b&)
 
 ### :pencil2: **Screen6**
-![task](https://cdn.discordapp.com/attachments/1356636390678597722/1356637223197606029/ex5.6.png?ex=67ed4a5f&is=67ebf8df&hm=2f934c624aee4dba34577982181ff599ae1497b1e4900e42ef0e625b6186f623&)
+![task](https://cdn.discordapp.com/attachments/1356778446465798164/1357132042659303525/ex5.6.png?ex=67ef1735&is=67edc5b5&hm=bf5b0d3ae9fe30015ac2e7f53499242a400f45b74f20c2e62c4fe4d09f888b6b&)
 
 ### :pencil2: **Screen7**
 ![task](https://cdn.discordapp.com/attachments/1356636390678597722/1356637259113168916/ex5.7.png?ex=67ed4a67&is=67ebf8e7&hm=a2400165f9a7fef80291227ca49a4fe77a4d18cccb70773f3471a73cd0d9b0c0&)
