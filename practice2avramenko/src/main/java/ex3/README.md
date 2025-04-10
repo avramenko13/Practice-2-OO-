@@ -16,7 +16,7 @@ ___
 ### :pencil2: **Результат виконання завдання:**
   ___
 
-![task](https://cdn.discordapp.com/attachments/920360168452149293/1355150069753708795/image.png?ex=67e7e15a&is=67e68fda&hm=cb91dbad4b0845999b3009a4ed8334f259a7bc93cc814fa6e4a989e401788da8&)
+![task](https://github.com/avramenko13/Practice-2-OO-/blob/main/practice2avramenko/src/main/java/image/ex3image/ex3image1.png)
 
   ___
 
