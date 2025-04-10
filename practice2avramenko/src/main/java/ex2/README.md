@@ -30,7 +30,7 @@ ___
 задачі.
 ___
 
-![task](https://cdn.discordapp.com/attachments/920360191524995152/1356613952292782191/ex2.2.1.png?ex=67ed34b2&is=67ebe332&hm=cb18a01c9ddce3b9d687ef93ca6046428b6bff39d69adbc28662b38f4291fa80&)
+![task](https://github.com/avramenko13/Practice-2-OO-/blob/main/practice2avramenko/src/main/java/image/ex2image/ex2image1.png)
 ___
 ### :pencil2: Результат виконання завдання №2.2
 
@@ -39,7 +39,7 @@ ___
 використання transient полів.
 
 
-![task](https://cdn.discordapp.com/attachments/920360191524995152/1356614132115181609/ex2.2.2.png?ex=67ed34dd&is=67ebe35d&hm=560fdecd8bbc691ce10c656cdc10a5e151eea39cb32704d73b67d7fff0c1a68c&)
+![task](https://github.com/avramenko13/Practice-2-OO-/blob/main/practice2avramenko/src/main/java/image/ex2image/ex2image2.png)
 ___
 ### :pencil2: Результат виконання завдання №2.3
 
@@ -48,7 +48,7 @@ ___
 Використовувати докладні коментарі для автоматичної генерації
 документації засобами javadoc.
 
-![task](https://cdn.discordapp.com/attachments/920360191524995152/1356614210473165070/ex2.2.3.png?ex=67ed34f0&is=67ebe370&hm=840508892e120720db2a9fec6703d63c2c0fea3b7ebb1b429170f7422d47c4eb&)
+![task](https://github.com/avramenko13/Practice-2-OO-/blob/main/practice2avramenko/src/main/java/image/ex2image/ex2image3.png)
 ___
 ### :pencil2: Результат виконання завдання №2.4 (Індивідуальне завдання)
 
@@ -57,7 +57,7 @@ ___
 аргументів.
 
 
-![task](https://cdn.discordapp.com/attachments/920360191524995152/1356614284976849069/ex2.2.4.png?ex=67ed3502&is=67ebe382&hm=415b79ab9b0cc68f8b2aff3c4d3053526f998b45d62790492edc69e2f95c5deb&)
+![task](https://github.com/avramenko13/Practice-2-OO-/blob/main/practice2avramenko/src/main/java/image/ex2image/ex2image4.png)
 ___
 
 :file_folder: **Посилання на завдання** :point_down:
