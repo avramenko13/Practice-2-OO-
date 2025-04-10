@@ -18,15 +18,15 @@ ___
 ### :pencil2: **Результат виконання завдання:**
  
  ### :pencil2: **Screen1**
-![task](https://cdn.discordapp.com/attachments/920360168452149293/1355186279985451048/image.png?ex=67e80313&is=67e6b193&hm=4d76fb655df8f332fb5f697079305f46872d4d88e4cff9a850d7170fdd32af20&)
+![task](https://github.com/avramenko13/Practice-2-OO-/blob/main/practice2avramenko/src/main/java/image/ex4image/ex4image1.png)
 
 ### :pencil2: **Screen2**
 
-![task](https://cdn.discordapp.com/attachments/920360168452149293/1355186408616362075/image.png?ex=67e80331&is=67e6b1b1&hm=013a04c1751158985f75bb89f2f9af23e6cf46525d1dbb8ee0f3fd4e0d6dee0d&)
+![task](https://github.com/avramenko13/Practice-2-OO-/blob/main/practice2avramenko/src/main/java/image/ex4image/ex4image2.png)
 
  ### :pencil2: **Screen3**
 
-![task](https://cdn.discordapp.com/attachments/920360168452149293/1355186480854732962/image.png?ex=67eca083&is=67eb4f03&hm=dc3e7921d4e60df277b8483484c9b5a8d95b15c5a9fc7b60bcddb998df10e62b&)
+![task](https://github.com/avramenko13/Practice-2-OO-/blob/main/practice2avramenko/src/main/java/image/ex4image/ex4image3.png)
 ___
 :file_folder: **Посилання на завдання** :point_down:
   ___
